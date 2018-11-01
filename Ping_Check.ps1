@@ -6,6 +6,7 @@
 #   in a CSV file.  If an email server is listed in this
 #   script, then the results will be sent to that address.
 #
+#	Don Schindler
 ##########################################################
 
 $EmailServerAddress = ""
